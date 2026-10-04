@@ -16,9 +16,11 @@ The hotel's stakeholders want to know whether revenue is growing, whether parkin
 
 **Findings**
 
-Revenue growth: Revenue peaked in 2019, growing almost 410%. Driven mainly by booking volume and longer stays. Then revenue dropped roughly 36% in 2020 as daily rates increased.
-Parking: Only 2.36% of guests used parking, and it stayed steady through each month. This suggests the current lot size is not a revenue constraint.
-Trends: Lower revenue in Jan and Feb, discounts did not improve revenue, and revenue began growing in 2018. 
+**Revenue growth:** Revenue peaked in 2019, growing almost 410%. Driven mainly by booking volume and longer stays. Then revenue dropped roughly 36% in 2020 as daily rates increased.
+
+**Parking:** Only 2.36% of guests used parking, and it stayed steady through each month. This suggests the current lot size is not a revenue constraint.
+
+**Trends:** Lower revenue in Jan and Feb, discounts did not improve revenue, and revenue began growing in 2018. 
 
 
 ## Business Problem
