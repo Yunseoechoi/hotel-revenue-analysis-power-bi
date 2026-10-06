@@ -25,8 +25,8 @@ How can we use the data to answer these questions and decide where to focus pric
 ## Methodology
 SQL queries that extract, clean, and transform the booking data in a database. A Power BI dashboard that tracks revenue, ADR, nights stayed, discounts, and parking usage over time.
 
-SQL: CTEs, joins, aggregate functions
-Power BI: Data visualization, DAX, calculated columns and measures
+SQL: CTEs, joins, aggregate functions \n
+Power BI: Data visualization, DAX, calculated columns and measures \n
 Excel: Import Data
 
 ## Results & Business Recommendations
