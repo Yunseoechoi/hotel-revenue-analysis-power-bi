@@ -33,12 +33,12 @@ Excel: Import Data
 
 ## Results & Business Recommendations
 
-The dashboard gives stakeholders visibility into hotel performance overall and by [year / month / customer segment], so they can answer questions on their own instead of requesting one-off reports. [Include a time-saved claim only if it's true.]
+The dashboard gives stakeholders visibility into hotel performance overall and by year, so they can answer questions on their own instead of requesting one-off reports. 
 
 The analysis showed that:
 
-Revenue growth: Revenue [grew/declined] by [X%] from [year] to [year], driven mainly by [ADR / booking volume / longer stays].
-Parking: [X%] of bookings included parking, and usage peaked at [X% of capacity] in [month]. This suggests [the current lot is / is not] limiting revenue.
+Revenue growth: Revenue peaked in 2019 by roughly 400% compared to previous years. Later dropped by 36% in 2020. The trend is driven by booking volume and longer stays. 
+Parking: 2.36% of bookings included parking, and usage peaked at 2.5% in the later quarter of the year. This suggests the current lot is not limiting revenue.
 Trends: [Seasonal peak in X], [discounts did / did not increase revenue], and [longer stays generated X% more revenue per booking].
 
 Because the biggest revenue opportunities appear to be in [your top two drivers], I recommend:
