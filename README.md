@@ -1,16 +1,5 @@
 # Hotel Revenue Analysis PowerBI
 ## Executive Summary:
-Project Goal & Stakeholder Questions
-
-Goal: Develop a database to analyze and visualize hotel booking data.
-
-Stakeholder questions:
-
-Is our hotel revenue growing by year?
-Should we increase our parking lot size?
-What trends can we see in the data?
-
-Executive Summary
 
 The hotel's stakeholders want to know whether revenue is growing, whether parking capacity should expand, and what broader trends exist in booking behavior. To answer these, I built a database of hotel booking data and a Power BI dashboard tracking revenue, Average Daily Rate(ADR), nights stayed, discounts, and parking.
 
@@ -25,7 +14,13 @@ The hotel's stakeholders want to know whether revenue is growing, whether parkin
 
 ## Business Problem
 
-Hotel revenue depends on booking volume, pricing, and add-on services like parking. Stakeholders want to know whether revenue is growing year over year, whether the parking lot should be expanded, and what other trends exist in the booking data. How can we use the data to answer these questions and decide where to focus pricing and capacity investments?
+Hotel revenue depends on booking volume, pricing, and add-on services like parking. Stakeholders want to know the following:
+
+1. Is our hotel revenue growing by year?
+2. Should we increase our parking lot size?
+3. What trends can we see in the data?
+
+How can we use the data to answer these questions and decide where to focus pricing and capacity investments?
 
 ## Methodology
 [SQL queries that extract, clean, and transform the booking data in a database.]
