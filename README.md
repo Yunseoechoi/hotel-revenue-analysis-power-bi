@@ -23,16 +23,11 @@ Hotel revenue depends on booking volume, pricing, and add-on services like parki
 How can we use the data to answer these questions and decide where to focus pricing and capacity investments?
 
 ## Methodology
-[SQL queries that extract, clean, and transform the booking data in a database.]
-A Power BI dashboard that tracks revenue, ADR, nights stayed, discounts, and parking usage over time.
-[Optional: a Python analysis to test the impact of changes, such as how a 1% increase in ADR or in average length of stay would change revenue.]
-Skills
+SQL queries that extract, clean, and transform the booking data in a database. A Power BI dashboard that tracks revenue, ADR, nights stayed, discounts, and parking usage over time.
 
-SQL: [CTEs, joins, CASE statements, aggregate functions]
-Power BI: [DAX, calculated columns and measures, data modeling, ETL in Power Query, data visualization]
-Python: [Pandas, Matplotlib, NumPy, statistics]
-
-List only the tools you actually used. Interviewers often ask follow-up questions on anything in this section.
+SQL: CTEs, joins, aggregate functions
+Power BI: Data visualization, DAX, calculated columns and measures
+Excel: Import Data
 
 ## Results & Business Recommendations
 
