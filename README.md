@@ -39,18 +39,16 @@ The analysis showed that:
 
 Revenue growth: Revenue peaked in 2019 by roughly 400% compared to previous years. Later dropped by 36% in 2020. The trend is driven by booking volume and longer stays. 
 Parking: 2.36% of bookings included parking, and usage peaked at 2.5% in the later quarter of the year. This suggests the current lot is not limiting revenue.
-Trends: [Seasonal peak in X], [discounts did / did not increase revenue], and [longer stays generated X% more revenue per booking].
+Trends: More sales during the later months of the year, discounts did not increase revenue, and resort hotels fluctuate more in revenue while city hotels are more consistent.
 
-Because the biggest revenue opportunities appear to be in [your top two drivers], I recommend:
+Because the biggest revenue opportunities appear to be in the longer stays, I recommend:
 
-[Adjust pricing or discounts in peak months to raise ADR.]
-[Expand / hold off on expanding parking, based on utilization data.]
-[Promote longer-stay packages or offers.]
-[Upsell parking and other add-ons at the point of booking.]
+Adjust discounts in peak months to raise the ADR.
+Hold off on expanding parking. 
+Promote longer-stay packages and offers.
 
 I believe these adjustments will best capture the largest revenue opportunities with the smallest operational changes.
 
 ## Next Steps
-[A/B test discount levels or promotions.]
-[Track parking utilization for a full year before committing to expansion.]
-[Measure the impact of longer-stay offers on revenue per booking.]
+Measure the impact of longer-stay offers on revenue per booking.
+Find factors that caused the surge of longer stays starting in 2018.
