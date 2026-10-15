@@ -50,5 +50,5 @@ Promote longer-stay packages and offers.
 I believe these adjustments will best capture the largest revenue opportunities with the smallest operational changes.
 
 ## Next Steps
-Measure the impact of longer-stay offers on revenue per booking.
-Find factors that caused the surge of longer stays starting in 2018.
+1. Measure the impact of longer-stay offers on revenue per booking.
+2. Find factors that caused the surge of longer stays starting in 2018.
